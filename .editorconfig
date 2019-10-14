@@ -1,0 +1,8 @@
+# http://editorconfig.org
+root = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+[Makefile]
+indent_style = tab

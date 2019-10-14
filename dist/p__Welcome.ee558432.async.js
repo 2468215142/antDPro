@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[5],{paSq:function(e,a,t){"use strict";var n=t("g09b");Object.defineProperty(a,"__esModule",{value:!0}),a.default=void 0;var r=n(t("q1tI")),u=t("y1Nh"),o=function(){return r.default.createElement(u.PageHeaderWrapper,null,"welcom")};a.default=o}}]);
+//# sourceMappingURL=p__Welcome.ee558432.async.js.map
